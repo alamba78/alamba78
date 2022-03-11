@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alamba78
-- 👀 I’m interested in DevSecOps, Elixir/Phoenix, Go, React, Svelte, AWS.
+- 👀 I’m interested in DevSecOps, Elixir/Phoenix, Go, Rust, Solidity, React, Svelte, AWS.
 - 🌱 I’m currently learning Go.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
