@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alamba78
 - 👀 I’m interested in DevSecOps, Elixir/Phoenix, Go, Rust, Solidity, React, Svelte, AWS.
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning React, Rust, and Kubernetes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
